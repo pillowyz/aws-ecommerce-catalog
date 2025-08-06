@@ -14,6 +14,10 @@ A scalable e-commerce catalog application built on AWS, demonstrating multi-tier
 - <b>CDN:</b> CloudFront distribution for global content delivery
 - <b>Monitoring:</b> CloudWatch metrics and auto-scaling policies
 
+<p align="left">
+<b>Architecture Diagram:</b> <br/>
+<img src=https://i.imgur.com/VOW7yKT.png/>  
+
 <h2>Services Used</h2>
 
 - <b>EC2</b> 
